@@ -24,13 +24,9 @@
 ### 4. Essential Reporting
 - [ ] **Enable** PDF report generation summarizing market data and client metrics  
   - Leverage `pdfkit` or `jsPDF`  
-  - Provide “Download Report” functionality in the dashboard  
-
-### 5. Analytics Integration
-- [ ] **Incorporate** Python/Pandas for deep data analysis  
-  - Expose results via secure REST endpoints in Node.js  
-
-### 6. User Authentication
+  - Provide “Download Report” functionality in the dashboard
+    
+### 5. User Authentication
 - [ ] **Integrate** secure authentication for authorized access  
   - React login/register pages   
   
